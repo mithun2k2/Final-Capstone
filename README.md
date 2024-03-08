@@ -41,6 +41,6 @@ Once you have the Task Manager files on your computer and you have succesfully d
 
 To run the program, select 'run' from the top toolbar and you can then interact with the task manager program in the shell window. Remember, if you choose to generate reports, the text files will be generated in the same folder as the local repository of files for this project and you can view them in Notepad if you wish to.
 
-Contributors
+### Contributors
 
 This program was worked on individually by myself to fulfill the sofware engineering bootcamp requirements. However, the helpful Hyperion Development mentors also reviewed and commented on the program!
