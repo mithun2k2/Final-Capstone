@@ -1,14 +1,14 @@
-Final Capstone Project
+# Final Capstone Project
 
-Task Manager
+# Task Manager
 
-Project Details:
+## Project Details:
 
-Description
+### Description
 
 The Task Manager Project is a program written in the Python language that was created to fulfill the level 1 task requirements for the Hyperion Development Software Engineering Bootcamp that I am enrolled in. The program was designed to assist a small business in managing tasks assigned to each member of a team. This includes creating, storing, displaying and editing tasks and related information to and from text files.
 
-Functionality
+# Functionality
 
 When reading the code, the viewer will first see six functions that have been written to perform certain actions based on options that users will choose from a displayed menu. These 'functions' are basically blocks of code that take in certain information (e.g. a menu choice) and then output various results based on the actions defined in the function.
 
