@@ -1,0 +1,4 @@
+Retrieving Data, Collect data from SQL server, Hassan, 2024-03-04, 2024-03-10, No
+Draw Graph, Collect data from stats and draw and analyze data , David, 2024-03-04, 2024-02-28, No
+Draw Class diagram from a object class, Design a UML class diagram and define method and abstract , Aaron, 2024-03-04, 2024-03-02, No
+Code Implementation from UML class Diagram, Using Python to create different Class and method to implement UML class diagram, Tony, 2024-03-04, 2024-03-10, No
